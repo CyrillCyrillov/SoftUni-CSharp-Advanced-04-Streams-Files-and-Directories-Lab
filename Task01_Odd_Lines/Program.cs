@@ -7,10 +7,12 @@ namespace Task01_Odd_Lines
     {
         static void Main(string[] args)
         {
+            string pathToRead = Path.Combine("data", "Input.txt");
+            string pathToWrite = Path.Combine("data", "Output.txt");
             
-            using (StreamReader readFromFile = new StreamReader(@"..\..\..\Input.txt")) // or absolute path: @"C:\_Home\Soft_Uni\Advanced_C#\04_Resources\01. Odd Lines\Input.txt"
+            using (StreamReader readFromFile = new StreamReader(pathToRead))
             {
-                using (StreamWriter writeToFile = new StreamWriter(@"..\..\..\Output.txt")) //or absolute path: @"C:\_Home\Soft_Uni\Advanced_C#\04_Resources\01. Odd Lines\Output.txt"
+                using (StreamWriter writeToFile = new StreamWriter(pathToWrite)) 
                 {
                     int rowcount = -1;
 

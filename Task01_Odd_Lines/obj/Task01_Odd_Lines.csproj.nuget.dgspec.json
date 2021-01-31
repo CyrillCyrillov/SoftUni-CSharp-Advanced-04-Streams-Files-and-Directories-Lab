@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\04_Streams_Files_and_Directories_Lab\\Task01_Odd_Lines.csproj": {}
+    "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\Task01_Odd_Lines\\Task01_Odd_Lines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\04_Streams_Files_and_Directories_Lab\\Task01_Odd_Lines.csproj": {
+    "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\Task01_Odd_Lines\\Task01_Odd_Lines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\04_Streams_Files_and_Directories_Lab\\Task01_Odd_Lines.csproj",
+        "projectUniqueName": "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\Task01_Odd_Lines\\Task01_Odd_Lines.csproj",
         "projectName": "Task01_Odd_Lines",
-        "projectPath": "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\04_Streams_Files_and_Directories_Lab\\Task01_Odd_Lines.csproj",
+        "projectPath": "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\Task01_Odd_Lines\\Task01_Odd_Lines.csproj",
         "packagesPath": "C:\\Users\\Kiril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\04_Streams_Files_and_Directories_Lab\\obj\\",
+        "outputPath": "C:\\Users\\Kiril\\Advanced_CSharp\\04_Streams_Files_and_Directories_Lab\\Task01_Odd_Lines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",
