@@ -1,0 +1,21 @@
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\Task06_Folder_Size.exe
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\data\TestFolder\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\data\TestFolder\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\data\TestFolder\1. Java-Advanced-Stacks-and-Queues.pptx
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\data\TestFolder\2. Simple-Calculations-Exercises.docx
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\data\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues-Exercises.docx
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\data\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues-Lab.docx
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\data\TestFolder\TestFolder2\1. Java-Advanced-Stacks-and-Queues.pptx
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\data\TestFolder\TestFolder2\2. Simple-Calculations-Exercises.docx
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\Task06_Folder_Size.deps.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\Task06_Folder_Size.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\Task06_Folder_Size.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\Task06_Folder_Size.dll
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\bin\Debug\netcoreapp3.1\Task06_Folder_Size.pdb
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\obj\Debug\netcoreapp3.1\Task06_Folder_Size.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\obj\Debug\netcoreapp3.1\Task06_Folder_Size.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\obj\Debug\netcoreapp3.1\Task06_Folder_Size.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\obj\Debug\netcoreapp3.1\Task06_Folder_Size.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\obj\Debug\netcoreapp3.1\Task06_Folder_Size.dll
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\obj\Debug\netcoreapp3.1\Task06_Folder_Size.pdb
+C:\Users\Kiril\Advanced_CSharp\04_Streams_Files_and_Directories_Lab\Task06_Folder_Size\obj\Debug\netcoreapp3.1\Task06_Folder_Size.genruntimeconfig.cache

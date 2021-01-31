@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task06_Folder_Size/1.0.0": {
+        "runtime": {
+          "Task06_Folder_Size.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task06_Folder_Size/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
